@@ -1,0 +1,35 @@
+.Library {
+  color: black;
+  background: #fdffcd;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 50px;
+  padding: 100px 120px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+}
+.Library h1 {
+  font-size: 50px;
+}
+.Library .searchbar {
+  margin: 10px;
+  padding: 10px;
+  width: 80%;
+  border: 1px solid grey;
+  border-radius: 8px;
+  background: #ffcab0;
+  color: black;
+  font-size: 16px;
+}
+.btn {
+  padding: 10px;
+  color: black;
+  background: #ffcab0;
+  border-radius: 8px;
+  border: 1px solid grey;
+  font-size: 16px;
+}
+.btn:hover {
+  color: #ffcab0;
+  background: grey;
+}
