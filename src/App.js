@@ -4,7 +4,7 @@ import Library from "./Library";
 function App() {
   return (
     <div className="App">
-      <Library />
+      <Library defaultBook="To Kill a Mockingbird" />
     </div>
   );
 }

@@ -1,3 +1,21 @@
-.App {
-  text-align: center;
+body {
+  background-image: linear-gradient(
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.3)
+    ),
+    url(Library.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.section {
+  color: black;
+  background: #fafafa;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 30px;
+  padding: 50px;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
 }
